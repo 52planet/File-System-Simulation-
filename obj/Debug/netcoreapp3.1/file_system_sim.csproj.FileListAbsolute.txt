@@ -1,0 +1,14 @@
+C:\Users\Luke Belch\source\repos\file_system_sim\file_system_sim\bin\Debug\netcoreapp3.1\file_system_sim.exe
+C:\Users\Luke Belch\source\repos\file_system_sim\file_system_sim\bin\Debug\netcoreapp3.1\file_system_sim.deps.json
+C:\Users\Luke Belch\source\repos\file_system_sim\file_system_sim\bin\Debug\netcoreapp3.1\file_system_sim.runtimeconfig.json
+C:\Users\Luke Belch\source\repos\file_system_sim\file_system_sim\bin\Debug\netcoreapp3.1\file_system_sim.runtimeconfig.dev.json
+C:\Users\Luke Belch\source\repos\file_system_sim\file_system_sim\bin\Debug\netcoreapp3.1\file_system_sim.dll
+C:\Users\Luke Belch\source\repos\file_system_sim\file_system_sim\bin\Debug\netcoreapp3.1\file_system_sim.pdb
+C:\Users\Luke Belch\source\repos\file_system_sim\file_system_sim\obj\Debug\netcoreapp3.1\file_system_sim.csproj.AssemblyReference.cache
+C:\Users\Luke Belch\source\repos\file_system_sim\file_system_sim\obj\Debug\netcoreapp3.1\file_system_sim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke Belch\source\repos\file_system_sim\file_system_sim\obj\Debug\netcoreapp3.1\file_system_sim.AssemblyInfoInputs.cache
+C:\Users\Luke Belch\source\repos\file_system_sim\file_system_sim\obj\Debug\netcoreapp3.1\file_system_sim.AssemblyInfo.cs
+C:\Users\Luke Belch\source\repos\file_system_sim\file_system_sim\obj\Debug\netcoreapp3.1\file_system_sim.csproj.CoreCompileInputs.cache
+C:\Users\Luke Belch\source\repos\file_system_sim\file_system_sim\obj\Debug\netcoreapp3.1\file_system_sim.dll
+C:\Users\Luke Belch\source\repos\file_system_sim\file_system_sim\obj\Debug\netcoreapp3.1\file_system_sim.pdb
+C:\Users\Luke Belch\source\repos\file_system_sim\file_system_sim\obj\Debug\netcoreapp3.1\file_system_sim.genruntimeconfig.cache
